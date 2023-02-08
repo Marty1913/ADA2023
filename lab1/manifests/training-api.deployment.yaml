@@ -23,7 +23,7 @@ spec:
           protocol: TCP
         env:
         - name: PROJECT_ID
-          value: ada2023  # use your project id
+          value: ada2023-377209  # use your project id
         - name: MODEL_REPO
           value: ada2023models # use your GCP bucket id
         - name: MODEL_NAME
